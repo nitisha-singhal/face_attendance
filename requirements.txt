@@ -4,6 +4,7 @@ certifi==2019.9.11
 chardet==3.0.4
 Click==7.0
 colorama==0.4.1
+cmake
 Django==2.2.5
 dlib==19.17.0
 face-recognition==1.2.3
@@ -29,3 +30,5 @@ webencodings==0.5.1
 wrapt==1.11.2
 gunicorn
 django-heroku
+libgtk-3-dev
+libboost-all-dev
